@@ -23,3 +23,11 @@
  
  7. Ready to use and store. Press F5 to compile solution.
  
+ 8. To log in as admin: 
+ email- admin@etickets.com
+ password- Coding@1234?
+ 
+ To log in as user:
+ email- user@etickets.com
+ password- Coding@1234?
+ 
