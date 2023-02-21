@@ -11,7 +11,7 @@
  
 ## To Start it:
  1. Clone this repository on your PC,
- 2. Open project folder, and launch eTickets.sln 
+ 2. Open project folder
  3. Open file appsetting.json, and where is ConnectionString change 
  DataSource=YOUR_MACHINE(server)
  
